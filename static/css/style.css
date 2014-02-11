@@ -124,7 +124,7 @@ figure.floatcenter, .align-center {
     margin-bottom: 11px;
 }
 
-.highlighttable .code {
+.highlighttable {
     width: 100%;
 }
 
@@ -151,3 +151,6 @@ figure.floatcenter, .align-center {
     margin-right: 10px;
 }
 
+.tagcloud li {
+    padding: 0px;
+}
